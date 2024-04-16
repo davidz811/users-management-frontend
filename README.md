@@ -14,3 +14,7 @@ The frontend seamlessly integrates with the backend Spring RESTful API to handle
 ![screenshot-home](https://github.com/davidz811/users-management-frontend/assets/115421208/b226e170-f023-4aa7-9109-cf8edbf1b17c)
 ![screenshot-adduser](https://github.com/davidz811/users-management-frontend/assets/115421208/dafff421-ddcb-42dc-803f-9a46189c9baf)
 ![screenshot-edituser](https://github.com/davidz811/users-management-frontend/assets/115421208/ba59eedb-fcd0-4282-a0cc-18ec076f0115)
+## Video Demo
+
+https://github.com/davidz811/users-management-frontend/assets/115421208/b21851d3-62b9-43d4-8189-4b35d95b7150
+
